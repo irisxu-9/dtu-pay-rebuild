@@ -177,7 +177,7 @@ Workflow configuration: `.github/workflows/ci.yml`.
 | v0.10.0 | CI/CD, security, observability |
 | v1.0.0 | Documentation, demonstration, interview-ready release |
 
-See [Product Backlog](docs/backlog.md) for detailed planned work.
+See [Product Backlog](docs/08-backlog/backlog.md) for detailed planned work.
 
 ## Architecture Decisions
 
